@@ -1,0 +1,20 @@
+final program - Fly the Friendly Skies
+1999-2000 AP Computer Science
+North Allegheny School District
+Completed: June 6, 2000 @ 11:25pm 
+	coded by brian creasy : (c) 2000
+______________________________
+
+to compile, run `g++ -o final final-0.3.cpp include/apstring.cpp'
+
+i have included the older semi-stable versions of this program to see how i
+have progressed :)
+
+passengers.txt is a good copy of the passenger list to keep if we segfault
+or lock up ( there is no reason why this should happen, but to be on the
+		safe side )
+
+WARNING: if you quit without pressing "q" at the main menu of this program,
+you will lose the passenger list ( file: passenger )
+
+enjoy
